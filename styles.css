@@ -19,14 +19,12 @@ body {
     align-items: center;
 }
 
-
 #bgColorChange {
     width: 500px;
     height: 100px;
     box-shadow: 5px 10px;
     margin: auto;
 }
-
 
 #buttonText {
     color:rgb(0, 64, 255);
