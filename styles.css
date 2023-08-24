@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(127, 255, 212);
+}
+
+/* Styling for H1 */
+#headerLabel {
+    color: #ffffff;
+    font-size:  2rem;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#bgColorChange {
+    width: 500px;
+    height: 100px;
+    box-shadow: 5px 10px;
+    margin: auto;
+}
+
+
+#buttonText {
+    color:rgb(0, 64, 255);
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+#resultValue {
+    color: white;
+}
+
