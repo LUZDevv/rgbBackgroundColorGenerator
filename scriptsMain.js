@@ -11,7 +11,7 @@ const setInitialTextColor = () => {
     document.getElementById('resultValue').innerHTML = 'rgb(127, 255, 212)';
   }
 
-/* Create JS variables that can give out a random number for each of the r g b channgels used to create a combination of colors which in turn makes up a whole new color */
+/* Create JS variables that can give out a random number for each of the r g b channels used to create a combination of colors which in turn makes up a whole new color */
 const getRandomBackgroundColor = () => {
     const r = randomNumber(255);
     const g = randomNumber(255);
