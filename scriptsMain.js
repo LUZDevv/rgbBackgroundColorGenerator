@@ -2,7 +2,7 @@
 
 let bgChangeBtnHover = document.getElementById('bgColorChange');
 
-/* random number - the maxNum parameter represents the 255 value indicating the max rgb index*/
+/* random number - the maxNum parameter represents the 255th value indicating the max rgb index*/
 
 const randomNumber = (maxNum) => {
     return Math.floor(Math.random() * maxNum);
